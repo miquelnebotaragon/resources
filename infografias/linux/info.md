@@ -1,0 +1,1 @@
+Infografias diversas sobre Linux.
